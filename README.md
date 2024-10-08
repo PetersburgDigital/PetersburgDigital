@@ -1,5 +1,10 @@
-## Hi, I'm Anastasia 👋
+# Hi, I'm Anastasia 👋
+### graphic designer, HTML/CSS developer
 
+## About me
+* Freelance worker
+* Softwares: Figma, Visual Studio Code
+* English level B2-C1
 <!--
 **designerfrom-spb/designerfrom-spb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
