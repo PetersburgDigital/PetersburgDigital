@@ -2,7 +2,7 @@
 ### graphic designer, HTML/CSS developer
 
 ## About me
-* Freelance worker
+* 1 year freelance worker
 * Softwares: Figma, Visual Studio Code
 * English level B2-C1
 <!--
