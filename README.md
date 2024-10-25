@@ -1,5 +1,6 @@
 # Hi, I'm Anastasia 👋
 ### graphic designer, HTML/CSS developer
+### Socials: https://www.behance.net/50a2812c
 
 ## About me
 * 1 year freelance worker
