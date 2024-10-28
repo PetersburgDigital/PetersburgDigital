@@ -4,6 +4,9 @@
 
 ## About me
 * 1 year freelance worker
+* Designer of landing pages and websites
+
+  ## Skills
 * Softwares: Figma, Visual Studio Code
 * English level B2-C1
 <!--
