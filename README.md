@@ -7,8 +7,9 @@
 * Designer of landing pages and websites
 
   ## Skills
-* Softwares: Figma, Visual Studio Code
+
  <img src="/img/figma.png" width="80" alt="Figma">  <img src="/img/vs-code.png" width="60" alt="VS Code"> <img src="/img/html.png" width="60" alt="Html"> <img src="/img/css.png" width="60" alt="Css">
+* Softwares: Figma, Visual Studio Code
 * English level B2-C1
 <!--
 **designerfrom-spb/designerfrom-spb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
