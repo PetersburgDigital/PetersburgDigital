@@ -8,7 +8,7 @@
 
   ## Skills
 * Softwares: Figma, Visual Studio Code
- <img src="/img/figma.png" alt="figma">
+ <img src="/img/figma.png" width="40" alt="figma">
 * English level B2-C1
 <!--
 **designerfrom-spb/designerfrom-spb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
