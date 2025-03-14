@@ -1,6 +1,6 @@
-# Hi, I'm Anastasia 👋
-### graphic designer, HTML/CSS developer
-### Socials: https://www.behance.net/PetersburgDigital
+# Hello, I'm Anastasia 👋
+### I specialize on graphic design and HTML/CSS development. I create landing pages, portfolio websites, first screens and more
+### My Behance: https://www.behance.net/PetersburgDigital
 
 ## About me
 * 1 year freelance worker
