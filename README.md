@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello, my name is Anastasia!
 I specialize on graphic design and HTML/CSS development. I create landing pages, portfolio websites, first screens and more
 
 
