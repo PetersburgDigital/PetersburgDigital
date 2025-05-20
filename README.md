@@ -3,10 +3,7 @@
 <p>I create landing pages, portfolio websites, first screens and more</p>
 
 
-## 🌐 You can find me here:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/PetersburgDigital) 
-
-# 💻 Tech Stack:
+# 💻 Skillset:
 **Programming:** 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
