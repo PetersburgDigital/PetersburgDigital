@@ -2,7 +2,7 @@
 I specialize on graphic design and HTML/CSS development. I create landing pages, portfolio websites, first screens and more
 
 
-## 🌐 Socials:
+## 🌐 You can find me here:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/PetersburgDigital) 
 
 # 💻 Tech Stack:
