@@ -8,7 +8,7 @@
 
 <p align="center">I specialize on graphic design and HTML/CSS development.<br>I create landing pages, portfolio websites, first screens and more</p>
 <p align='center'>
-  <img src='https://c.tenor.com/BKT84P1dgOAAAAAC/tenor.gif'>
+  <img src='https://c.tenor.com/BKT84P1dgOAAAAAC/tenor.gif' width='500'>
 </p>
 
 
